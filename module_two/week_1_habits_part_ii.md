@@ -3,7 +3,7 @@ layout: page
 title: Building Habits for Becoming a Software Developer, Part II
 subheading: Making New Habits Attractive and Easy
 ---
-
+adfsdwasfgszgthafxc 
 Ideas in this session are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
 
 [Slides for this session](https://docs.google.com/presentation/d/1_SFwI3DLHHXCLZjqxugochHSei2BSwQDoI4p3Nl44kA/edit?usp=sharing)
